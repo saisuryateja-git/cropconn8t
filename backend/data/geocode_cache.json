@@ -1,0 +1,2700 @@
+{
+  "achampet, nagarkurnool": {
+    "latitude": 16.3999846,
+    "longitude": 78.6379866,
+    "display_name": "Achampet, Achampet mandal, Nagarkurnool, Telangana, 509375, India",
+    "address": {
+      "town": "Achampet",
+      "county": "Achampet mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509375",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "achampet (ct), achampet, nagarkurnool, telangana, india": {
+    "latitude": 16.395987,
+    "longitude": 78.6345899,
+    "display_name": "TGSRTC Bus Depot , Achampet, Achampet, Achampet mandal, Nagarkurnool, Telangana, 509375, India",
+    "address": {
+      "industrial": "TGSRTC Bus Depot , Achampet",
+      "town": "Achampet",
+      "county": "Achampet mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509375",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "achampet, nagarkurnool, telangana, india": {
+    "latitude": 16.3999846,
+    "longitude": 78.6379866,
+    "display_name": "Achampet, Achampet mandal, Nagarkurnool, Telangana, 509375, India",
+    "address": {
+      "town": "Achampet",
+      "county": "Achampet mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509375",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "amrabad, nagarkurnool, telangana, india": {
+    "latitude": 16.3767064,
+    "longitude": 78.833257,
+    "display_name": "Amrabad, Amrabad mandal, Nagarkurnool, Telangana, 509200, India",
+    "address": {
+      "village": "Amrabad",
+      "county": "Amrabad mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509200",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kalwakurthy, nagarkurnool, telangana, india": {
+    "latitude": 16.6721316,
+    "longitude": 78.4880729,
+    "display_name": "Kalwakurthy, Kalwakurthy mandal, Nagarkurnool, Telangana, 509234, India",
+    "address": {
+      "town": "Kalwakurthy",
+      "county": "Kalwakurthy mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509234",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kollapur, nagarkurnool, telangana, india": {
+    "latitude": 16.1061268,
+    "longitude": 78.3194833,
+    "display_name": "Kollapur, Kollapur mandal, Nagarkurnool, Telangana, 509102, India",
+    "address": {
+      "town": "Kollapur",
+      "county": "Kollapur mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509102",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kosgi, nagarkurnool, telangana, india": null,
+  "nagarkurnool, nagarkurnool, telangana, india": {
+    "latitude": 16.4870296,
+    "longitude": 78.3169003,
+    "display_name": "Nagarkurnool, Nagar_Kurnool mandal, Nagarkurnool, Telangana, 509209, India",
+    "address": {
+      "town": "Nagarkurnool",
+      "county": "Nagar_Kurnool mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509209",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "alampur, jogulamba gadwal, telangana, india": {
+    "latitude": 15.8799583,
+    "longitude": 78.1350753,
+    "display_name": "Alampur, Alampur mandal, Jogulamba Gadwal, Telangana, 509152, India",
+    "address": {
+      "town": "Alampur",
+      "county": "Alampur mandal",
+      "state_district": "Jogulamba Gadwal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509152",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "asifabad, asifabad, telangana, india": {
+    "latitude": 19.3593461,
+    "longitude": 79.2960404,
+    "display_name": "Asifabad, Asifabad mandal, Kumuram Bheem Asifabad, Telangana, 504293, India",
+    "address": {
+      "town": "Asifabad",
+      "county": "Asifabad mandal",
+      "state_district": "Kumuram Bheem Asifabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504293",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "badepally, mahbubnagar, telangana, india": {
+    "latitude": 16.7547141,
+    "longitude": 78.1437778,
+    "display_name": "Government Homoeo Dispensary, Badepally, Residential road, Badepalli, Jadcherla mandal, Mahabubnagar, Telangana, 509301, India",
+    "address": {
+      "amenity": "Government Homoeo Dispensary, Badepally",
+      "road": "Residential road",
+      "village": "Badepalli",
+      "county": "Jadcherla mandal",
+      "state_district": "Mahabubnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509301",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bejjenki, siddipet, telangana, india": {
+    "latitude": 18.2559006,
+    "longitude": 79.022105,
+    "display_name": "SubCentre, Bejjenki, SH1, Sanigaram, Bejjanki mandal, Siddipet, Telangana, 505528, India",
+    "address": {
+      "amenity": "SubCentre, Bejjenki",
+      "road": "SH1",
+      "village": "Sanigaram",
+      "county": "Bejjanki mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505528",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bhadrachalam, bhadradri kothagudem, telangana, india": {
+    "latitude": 17.6688019,
+    "longitude": 80.8940083,
+    "display_name": "Bhadrachalam, Bhadradri Kothagudem, Telangana, 507111, India",
+    "address": {
+      "town": "Bhadrachalam",
+      "county": "Bhadrachalam",
+      "state_district": "Bhadradri Kothagudem",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507111",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bhainsa, nirmal, telangana, india": {
+    "latitude": 19.107085,
+    "longitude": 77.9635656,
+    "display_name": "Bhainsa, Bhainsa mandal, Nirmal, Telangana, 504103, India",
+    "address": {
+      "town": "Bhainsa",
+      "county": "Bhainsa mandal",
+      "state_district": "Nirmal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504103",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "boath, adilabad, telangana, india": {
+    "latitude": 19.360334,
+    "longitude": 78.2793388,
+    "display_name": "Boath mandal, Adilabad, Telangana, 504304, India",
+    "address": {
+      "county": "Boath mandal",
+      "state_district": "Adilabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504304",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "choppadandi, karimnagar, telangana, india": {
+    "latitude": 18.5773287,
+    "longitude": 79.1675524,
+    "display_name": "Choppadandi, Choppadandi mandal, Karimnagar, Telangana, 557654, India",
+    "address": {
+      "town": "Choppadandi",
+      "county": "Choppadandi mandal",
+      "state_district": "Karimnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "557654",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "husnabad, karimnagar, telangana, india": null,
+  "jagtial, jagtial, telangana, india": {
+    "latitude": 18.7957081,
+    "longitude": 78.9161959,
+    "display_name": "Jagtial, Jagtial mandal, Jagtial, Telangana, 505327, India",
+    "address": {
+      "town": "Jagtial",
+      "county": "Jagtial mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505327",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kagaznagar, asifabad, telangana, india": {
+    "latitude": 19.3465635,
+    "longitude": 79.489989,
+    "display_name": "Sirpur Kagaznagar, Kagaznagar Khamana Road, Kotha Ankusapur, Ankusapur Colony, Kagaznagar mandal, Kumuram Bheem Asifabad, Telangana, 504296, India",
+    "address": {
+      "railway": "Sirpur Kagaznagar",
+      "road": "Kagaznagar Khamana Road",
+      "hamlet": "Kotha Ankusapur",
+      "village": "Ankusapur Colony",
+      "county": "Kagaznagar mandal",
+      "state_district": "Kumuram Bheem Asifabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504296",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kesamudram, mahabubabad, telangana, india": {
+    "latitude": 17.6903072,
+    "longitude": 79.8971365,
+    "display_name": "Kesamudram, Kesamudram mandal, Mahabubabad, Telangana, 506112, India",
+    "address": {
+      "village": "Kesamudram",
+      "county": "Kesamudram mandal",
+      "state_district": "Mahabubabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506112",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "khammam, khammam, telangana, india": {
+    "latitude": 17.2465351,
+    "longitude": 80.1500326,
+    "display_name": "Khammam, Khammam Urban mandal, Khammam, Telangana, 507003, India",
+    "address": {
+      "city": "Khammam",
+      "county": "Khammam Urban mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507003",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kothagudem, bhadradri kothagudem, telangana, india": {
+    "latitude": 17.5512916,
+    "longitude": 80.6144535,
+    "display_name": "Bhadrachalam Road, NH30, Kothagudem, Kothagudem mandal, Bhadradri Kothagudem, Telangana, 507101, India",
+    "address": {
+      "railway": "Bhadrachalam Road",
+      "road": "NH30",
+      "town": "Kothagudem",
+      "county": "Kothagudem mandal",
+      "state_district": "Bhadradri Kothagudem",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507101",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "mahabubabad, mahabubabad, telangana, india": {
+    "latitude": 17.595749,
+    "longitude": 79.9999224,
+    "display_name": "Mahabubabad, Mahabubabad mandal, Mahabubabad, Telangana, 506100, India",
+    "address": {
+      "town": "Mahabubabad",
+      "county": "Mahabubabad mandal",
+      "state_district": "Mahabubabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506100",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nizamabad, nizamabad, telangana, india": {
+    "latitude": 18.6731912,
+    "longitude": 78.0978195,
+    "display_name": "Nizamabad, Nizamabad South mandal, Nizamabad, Telangana, 503001, India",
+    "address": {
+      "city": "Nizamabad",
+      "county": "Nizamabad South mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503001",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "suryapeta, suryapet, telangana, india": {
+    "latitude": 17.1511996,
+    "longitude": 79.6213754,
+    "display_name": "TGSRTC Bus Depot, Suryapeta, Suryapet, Suryapet mandal, Suryapet, Telangana, 508213, India",
+    "address": {
+      "industrial": "TGSRTC Bus Depot, Suryapeta",
+      "city": "Suryapet",
+      "county": "Suryapet mandal",
+      "state_district": "Suryapet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508213",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "tirumalagiri, suryapet, telangana, india": {
+    "latitude": 17.4681198,
+    "longitude": 79.4502758,
+    "display_name": "Tirumalagiri, Tirumalagiri mandal, Suryapet, Telangana, 508223, India",
+    "address": {
+      "village": "Tirumalagiri",
+      "county": "Tirumalagiri mandal",
+      "state_district": "Suryapet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508223",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "warangal, warangal, telangana, india": {
+    "latitude": 17.9820644,
+    "longitude": 79.5970954,
+    "display_name": "Warangal, Warangal mandal, Warangal, Telangana, 506002, India",
+    "address": {
+      "city": "Warangal",
+      "county": "Warangal mandal",
+      "state_district": "Warangal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506002",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "yellandu, bhadradri kothagudem, telangana, india": {
+    "latitude": 17.5915639,
+    "longitude": 80.3216885,
+    "display_name": "Yellandu, Yellandu mandal, Bhadradri Kothagudem, Telangana, 507123, India",
+    "address": {
+      "town": "Yellandu",
+      "county": "Yellandu mandal",
+      "state_district": "Bhadradri Kothagudem",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507123",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "zaheerabad, sangareddy, telangana, india": {
+    "latitude": 17.679403,
+    "longitude": 77.6153076,
+    "display_name": "Zahirabad mandal, Sangareddy, Telangana, 502220, India",
+    "address": {
+      "town": "Zahirabad mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502220",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kothakonda, bheemadevarpalli, hanumakonda, telangana, india": {
+    "latitude": 18.0368376,
+    "longitude": 79.3113445,
+    "display_name": "SubCentre, Kothakonda, Kothakonda, Bheemadevarapalli mandal, Hanumakonda, Telangana, 505471, India",
+    "address": {
+      "amenity": "SubCentre, Kothakonda",
+      "village": "Kothakonda",
+      "county": "Bheemadevarapalli mandal",
+      "state_district": "Hanumakonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505471",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "excise colony,rbz, hanumakonda, telangana, india": null,
+  "kamalapur, hanumakonda, telangana, india": {
+    "latitude": 18.1739005,
+    "longitude": 79.5250884,
+    "display_name": "Kamalapur, Kamalapur mandal, Hanumakonda, Telangana, 505102, India",
+    "address": {
+      "village": "Kamalapur",
+      "county": "Kamalapur mandal",
+      "state_district": "Hanumakonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505102",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "parkal, hanumakonda, telangana, india": {
+    "latitude": 18.1983314,
+    "longitude": 79.7010601,
+    "display_name": "Parkal, Parkal mandal, Hanumakonda, Telangana, 506164, India",
+    "address": {
+      "town": "Parkal",
+      "county": "Parkal mandal",
+      "state_district": "Hanumakonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506164",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "17.646038246461607,77.79951096201374": {
+    "latitude": 17.6461111,
+    "longitude": 77.7988479,
+    "display_name": "Woxsen University, Moqdumpalle, Munipally mandal, Sangareddy, Telangana, India",
+    "address": {
+      "commercial": "Woxsen University",
+      "village": "Moqdumpalle",
+      "county": "Munipally mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kommenapally, kamepalli, khammam, telangana, india": null,
+  "chinnamandava, chinthakani, khammam, telangana, india": {
+    "latitude": 17.029053,
+    "longitude": 80.1765677,
+    "display_name": "SubCentre, Chinnamandava, MDR09, Dabbakupalle, Vatsavai, Khammam, Andhra Pradesh, 521402, India",
+    "address": {
+      "amenity": "SubCentre, Chinnamandava",
+      "road": "MDR09",
+      "village": "Dabbakupalle",
+      "county": "Vatsavai",
+      "state_district": "Khammam",
+      "state": "Andhra Pradesh",
+      "ISO3166-2-lvl4": "IN-AP",
+      "postcode": "521402",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "enkoor, khammam, telangana, india": {
+    "latitude": 17.3284346,
+    "longitude": 80.4406512,
+    "display_name": "Enkoor, Enkoor mandal, Khammam, Telangana, 507168, India",
+    "address": {
+      "village": "Enkoor",
+      "county": "Enkoor mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507168",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kallur, khammam, telangana, india": {
+    "latitude": 17.2001667,
+    "longitude": 80.5473275,
+    "display_name": "Kallur, Kalluru mandal, Khammam, Telangana, 507209, India",
+    "address": {
+      "village": "Kallur",
+      "county": "Kalluru mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507209",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "maddulapally, khammam, telangana, india": {
+    "latitude": 17.393644,
+    "longitude": 80.3220289,
+    "display_name": "Adavi Maddulapally, Kamepally mandal, Khammam, Telangana, India",
+    "address": {
+      "village": "Adavi Maddulapally",
+      "county": "Kamepally mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "madhira, khammam, telangana, india": {
+    "latitude": 16.9234629,
+    "longitude": 80.3629315,
+    "display_name": "Madhira, Madhira mandal, Khammam, Telangana, 507203, India",
+    "address": {
+      "town": "Madhira",
+      "county": "Madhira mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507203",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nelakondapally, khammam, telangana, india": {
+    "latitude": 17.073074,
+    "longitude": 80.0536353,
+    "display_name": "Nelakondapally mandal, Khammam, Telangana, 507160, India",
+    "address": {
+      "county": "Nelakondapally mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507160",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "pavilion ground,khammam,rbz, khammam, telangana, india": null,
+  "sattupalli (ramalayam),rbz, khammam, telangana, india": null,
+  "sattupally, khammam, telangana, india": null,
+  "wyra, khammam, telangana, india": {
+    "latitude": 17.1936232,
+    "longitude": 80.3594327,
+    "display_name": "Wyra, Wyra mandal, Khammam, Telangana, India",
+    "address": {
+      "town": "Wyra",
+      "county": "Wyra mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bonala, balmoor, nagarkurnool, telangana, india": null,
+  "mallepalli, asif nagar, hyderabad, telangana, india": null,
+  "17.644191085900232,77.7984384579376": {
+    "latitude": 17.6443019,
+    "longitude": 77.7979543,
+    "display_name": "Woxsen University, Moqdumpalle, Munipally mandal, Sangareddy, Telangana, India",
+    "address": {
+      "commercial": "Woxsen University",
+      "village": "Moqdumpalle",
+      "county": "Munipally mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "apmc patancheru, sangareddy, telangana, india": null,
+  "adilabad (rythu bazar), adilabad, telangana, india": null,
+  "adilabad, adilabad, telangana, india": {
+    "latitude": 19.6759452,
+    "longitude": 78.5339895,
+    "display_name": "Adilabad, Adilabad Urban Mandal, Adilabad, Telangana, 504001, India",
+    "address": {
+      "city": "Adilabad",
+      "county": "Adilabad Urban Mandal",
+      "state_district": "Adilabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504001",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "aler, yadadri bhuvanagiri, telangana, india": {
+    "latitude": 17.6456262,
+    "longitude": 79.0488953,
+    "display_name": "Aler, WARANGAL HIGHWAY, Aleru, Alair mandal, Yadadri Bhuvanagiri, Telangana, India",
+    "address": {
+      "railway": "Aler",
+      "road": "WARANGAL HIGHWAY",
+      "town": "Aleru",
+      "county": "Alair mandal",
+      "state_district": "Yadadri Bhuvanagiri",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "alwal,rbz, hyderabad, telangana, india": null,
+  "amangal, ranga reddy, telangana, india": {
+    "latitude": 16.8497797,
+    "longitude": 78.5325679,
+    "display_name": "Amangal, Amangal mandal, Ranga Reddy, Telangana, 509321, India",
+    "address": {
+      "town": "Amangal",
+      "county": "Amangal mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509321",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "armoor, nizamabad, telangana, india": {
+    "latitude": 18.7904482,
+    "longitude": 78.2907202,
+    "display_name": "Armoor, Armoor mandal, Nizamabad, Telangana, 503200, India",
+    "address": {
+      "town": "Armoor",
+      "county": "Armoor mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503200",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "atmakur, wanaparthy, telangana, india": {
+    "latitude": 16.3373241,
+    "longitude": 77.805459,
+    "display_name": "Atmakur, Atmakur mandal, Wanaparthy, Telangana, 509131, India",
+    "address": {
+      "village": "Atmakur",
+      "county": "Atmakur mandal",
+      "state_district": "Wanaparthy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509131",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "babbuguda, ranga reddy, telangana, india": null,
+  "balanagar, mahbubnagar, telangana, india": {
+    "latitude": 16.9511727,
+    "longitude": 78.1843736,
+    "display_name": "SubCentre Balanagar, Balanagar, Balanagar mandal, Mahabubnagar, Telangana, 509202, India",
+    "address": {
+      "amenity": "SubCentre Balanagar",
+      "village": "Balanagar",
+      "county": "Balanagar mandal",
+      "state_district": "Mahabubnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509202",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "banswada, nizamabad, telangana, india": {
+    "latitude": 18.3806583,
+    "longitude": 77.8767653,
+    "display_name": "Area Hospital, Banswada, NH765D, Tadkole Village, Rajaram Dibba, Banswada, Banswada mandal, Nizamabad, Telangana, 503187, India",
+    "address": {
+      "amenity": "Area Hospital, Banswada",
+      "road": "NH765D",
+      "residential": "Tadkole Village",
+      "hamlet": "Rajaram Dibba",
+      "town": "Banswada",
+      "county": "Banswada mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503187",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "basheerabad, vikarabad, telangana, india": {
+    "latitude": 17.2198527,
+    "longitude": 77.4246474,
+    "display_name": "Basheerabad, Basheerabad mandal, Vikarabad, Telangana, India",
+    "address": {
+      "village": "Basheerabad",
+      "county": "Basheerabad mandal",
+      "state_district": "Vikarabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bellampally, mancherial, telangana, india": {
+    "latitude": 19.07529,
+    "longitude": 79.476587,
+    "display_name": "Government Ayurvedic Dispensary, Bellampally (NRHM), NH363, Bellampalli, Bellampalle mandal, Mancherial, Telangana, 504251, India",
+    "address": {
+      "amenity": "Government Ayurvedic Dispensary, Bellampally (NRHM)",
+      "road": "NH363",
+      "town": "Bellampalli",
+      "county": "Bellampalle mandal",
+      "state_district": "Mancherial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504251",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bhiknoor, kamareddy, telangana, india": {
+    "latitude": 18.1883539,
+    "longitude": 78.39952,
+    "display_name": "Bhiknoor, Bhiknoor mandal, Kamareddy, Telangana, 503101, India",
+    "address": {
+      "village": "Bhiknoor",
+      "county": "Bhiknoor mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503101",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bhongir, yadadri bhuvanagiri, telangana, india": {
+    "latitude": 17.5172789,
+    "longitude": 78.8863383,
+    "display_name": "Bhongir, Bhongiri mandal, Yadadri Bhuvanagiri, Telangana, 508100, India",
+    "address": {
+      "town": "Bhongir",
+      "county": "Bhongiri mandal",
+      "state_district": "Yadadri Bhuvanagiri",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508100",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bhupalapally, bhupalapally, telangana, india": {
+    "latitude": 18.4396558,
+    "longitude": 79.8629343,
+    "display_name": "TGSRTC Bus Depot , Bhupalapally, Millenium Quarters, Bhupalpally, Bhupalpally mandal, Jayashankar Bhupalapally, Telangana, India",
+    "address": {
+      "industrial": "TGSRTC Bus Depot , Bhupalapally",
+      "suburb": "Millenium Quarters",
+      "town": "Bhupalpally",
+      "county": "Bhupalpally mandal",
+      "state_district": "Jayashankar Bhupalapally",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bichkunda, kamareddy, telangana, india": {
+    "latitude": 18.401589,
+    "longitude": 77.7077969,
+    "display_name": "Bichkunda, Bichkunda mandal, Kamareddy, Telangana, 503306, India",
+    "address": {
+      "village": "Bichkunda",
+      "county": "Bichkunda mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503306",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "birkur, kamareddy, telangana, india": {
+    "latitude": 18.5229559,
+    "longitude": 77.7948307,
+    "display_name": "Birkur Pothangal Road, Bareedpur, Lingapur, Kotagiri mandal, Nizamabad, Telangana, India",
+    "address": {
+      "road": "Birkur Pothangal Road",
+      "hamlet": "Bareedpur",
+      "village": "Lingapur",
+      "county": "Kotagiri mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "bodhan, nizamabad, telangana, india": {
+    "latitude": 18.6536941,
+    "longitude": 77.8936802,
+    "display_name": "Bodhan, Bodhan mandal, Nizamabad, Telangana, 503185, India",
+    "address": {
+      "town": "Bodhan",
+      "county": "Bodhan mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503185",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "boinpalli, rajanna siricilla, telangana, india": null,
+  "bowenpally, hyderabad, telangana, india": {
+    "latitude": 17.4755371,
+    "longitude": 78.4792282,
+    "display_name": "Bowenpally, Hasmathpet bus stop road, HAL Colony, Greater Hyderabad Municipal Corporation West Zone, Hyderabad, Balanagar mandal, Medchal–Malkajgiri, Telangana, 500015, India",
+    "address": {
+      "leisure": "Bowenpally",
+      "road": "Hasmathpet bus stop road",
+      "neighbourhood": "HAL Colony",
+      "city_district": "Greater Hyderabad Municipal Corporation West Zone",
+      "city": "Hyderabad",
+      "county": "Balanagar mandal",
+      "state_district": "Medchal–Malkajgiri",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "500015",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "burgampadu, bhadradri kothagudem, telangana, india": {
+    "latitude": 17.6438002,
+    "longitude": 80.8694168,
+    "display_name": "Burgampadu, Burgampadu mandal, Bhadradri Kothagudem, Telangana, 507111, India",
+    "address": {
+      "village": "Burgampadu",
+      "county": "Burgampadu mandal",
+      "state_district": "Bhadradri Kothagudem",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "507111",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chandur, nalgonda, telangana, india": {
+    "latitude": 16.9794401,
+    "longitude": 79.0584117,
+    "display_name": "Chandur, Chandur mandal, Nalgonda, Telangana, 508255, India",
+    "address": {
+      "town": "Chandur",
+      "county": "Chandur mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508255",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chandur(mungodu), nalgonda, telangana, india": null,
+  "chegunta, medak, telangana, india": {
+    "latitude": 17.9709103,
+    "longitude": 78.4631576,
+    "display_name": "Chegunta, Chegunta mandal, Medak, Telangana, 502255, India",
+    "address": {
+      "village": "Chegunta",
+      "county": "Chegunta mandal",
+      "state_district": "Medak",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502255",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chennur, mancherial, telangana, india": {
+    "latitude": 18.8555246,
+    "longitude": 79.7904908,
+    "display_name": "Chennur, Chennur mandal, Mancherial, Telangana, 504201, India",
+    "address": {
+      "town": "Chennur",
+      "county": "Chennur mandal",
+      "state_district": "Mancherial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504201",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "cherial, warangal, telangana, india": {
+    "latitude": 17.9248452,
+    "longitude": 78.9711548,
+    "display_name": "Community Health Centre, Cherial, NH365B, Bachannapet, Cherial mandal, Warangal, Telangana, 506223, India",
+    "address": {
+      "amenity": "Community Health Centre, Cherial",
+      "road": "NH365B",
+      "village": "Bachannapet",
+      "county": "Cherial mandal",
+      "state_district": "Warangal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506223",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chevella, ranga reddy, telangana, india": {
+    "latitude": 17.3062296,
+    "longitude": 78.1370079,
+    "display_name": "Chevella mandal, Ranga Reddy, Telangana, 501503, India",
+    "address": {
+      "village": "Chevella mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "501503",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chinnakodur, siddipet, telangana, india": {
+    "latitude": 18.1613649,
+    "longitude": 78.8994489,
+    "display_name": "Chinnakodur mandal, Siddipet, Telangana, India",
+    "address": {
+      "village": "Chinnakodur mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chityal, nalgonda, telangana, india": {
+    "latitude": 17.2314588,
+    "longitude": 79.1293471,
+    "display_name": "Chityal, Chityal mandal, Nalgonda, Telangana, 508114, India",
+    "address": {
+      "town": "Chityal",
+      "county": "Chityal mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508114",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "choutuppal, yadadri bhuvanagiri, telangana, india": {
+    "latitude": 17.2526027,
+    "longitude": 78.8964038,
+    "display_name": "Choutuppal, Choutuppal mandal, Yadadri Bhuvanagiri, Telangana, 508252, India",
+    "address": {
+      "town": "Choutuppal",
+      "county": "Choutuppal mandal",
+      "state_district": "Yadadri Bhuvanagiri",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508252",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "dammapet, bhadradri kothagudem, telangana, india": null,
+  "devarakadra, mahbubnagar, telangana, india": null,
+  "devarakonda, nalgonda, telangana, india": {
+    "latitude": 16.6931795,
+    "longitude": 78.9147252,
+    "display_name": "Devarakonda, Devarakonda mandal, Nalgonda, Telangana, 508248, India",
+    "address": {
+      "town": "Devarakonda",
+      "county": "Devarakonda mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508248",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "devarkonda(dindi), nalgonda, telangana, india": null,
+  "devarkonda(mallepalli), nalgonda, telangana, india": null,
+  "dharmapuri, jagtial, telangana, india": {
+    "latitude": 18.9492756,
+    "longitude": 79.0954665,
+    "display_name": "Dharmapuri, Dharmapuri mandal, Jagtial, Telangana, India",
+    "address": {
+      "town": "Dharmapuri",
+      "county": "Dharmapuri mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "dharmaram, peddapalli, telangana, india": {
+    "latitude": 18.7341149,
+    "longitude": 79.1913388,
+    "display_name": "Dharmaram, Dharmaram mandal, Peddapalli, Telangana, 505416, India",
+    "address": {
+      "village": "Dharmaram",
+      "county": "Dharmaram mandal",
+      "state_district": "Peddapalli",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505416",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "dharur, vikarabad, telangana, india": {
+    "latitude": 17.3095811,
+    "longitude": 77.7788084,
+    "display_name": "Dharur, Dharoor mandal, Vikarabad, Telangana, 501121, India",
+    "address": {
+      "village": "Dharur",
+      "county": "Dharoor mandal",
+      "state_district": "Vikarabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "501121",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "doulthabad, siddipet, telangana, india": {
+    "latitude": 17.9885714,
+    "longitude": 78.5680455,
+    "display_name": "Doulthabad-II, Doulatabad, Doultabad mandal, Siddipet, Telangana, India",
+    "address": {
+      "amenity": "Doulthabad-II",
+      "village": "Doulatabad",
+      "county": "Doultabad mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "dubbak, siddipet, telangana, india": {
+    "latitude": 18.1737336,
+    "longitude": 78.6657035,
+    "display_name": "Dubbak, Dubbak mandal, Siddipet, Telangana, 502108, India",
+    "address": {
+      "town": "Dubbak",
+      "county": "Dubbak mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502108",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "echoda, adilabad, telangana, india": {
+    "latitude": 19.4283042,
+    "longitude": 78.4513937,
+    "display_name": "Echoda-II, Old NH7, Lambdi Thanda, Ichoda, Ichoda mandal, Adilabad, Telangana, 504307, India",
+    "address": {
+      "amenity": "Echoda-II",
+      "road": "Old NH7",
+      "hamlet": "Lambdi Thanda",
+      "town": "Ichoda",
+      "county": "Ichoda mandal",
+      "state_district": "Adilabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504307",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "ellanthakunta, rajanna siricilla, telangana, india": {
+    "latitude": 18.3120068,
+    "longitude": 78.9520897,
+    "display_name": "ELLANTHAKUNTA-1, Illanthakunta, Illanthakunta mandal, Rajanna Sircilla, Telangana, 505402, India",
+    "address": {
+      "amenity": "ELLANTHAKUNTA-1",
+      "village": "Illanthakunta",
+      "county": "Illanthakunta mandal",
+      "state_district": "Rajanna Sircilla",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505402",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gaddiannaram, ranga reddy, telangana, india": {
+    "latitude": 17.3636842,
+    "longitude": 78.523971,
+    "display_name": "Gaddiannaram, Ward 25 Moosarambagh, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Saroornagar mandal, Ranga Reddy, Telangana, 500659, India",
+    "address": {
+      "suburb": "Gaddiannaram",
+      "city_district": "Greater Hyderabad Municipal Corporation South Zone",
+      "city": "Hyderabad",
+      "county": "Saroornagar mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "500659",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gadwal, jogulamba gadwal, telangana, india": {
+    "latitude": 16.2347032,
+    "longitude": 77.7946371,
+    "display_name": "Gadwal, Gadwal mandal, Jogulamba Gadwal, Telangana, 509100, India",
+    "address": {
+      "town": "Gadwal",
+      "county": "Gadwal mandal",
+      "state_district": "Jogulamba Gadwal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509100",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gajwel, siddipet, telangana, india": {
+    "latitude": 17.8456745,
+    "longitude": 78.6828741,
+    "display_name": "Gajwel mandal, Siddipet, Telangana, 502281, India",
+    "address": {
+      "town": "Gajwel mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502281",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gambhiraopet, rajanna siricilla, telangana, india": null,
+  "gandhari, kamareddy, telangana, india": {
+    "latitude": 18.3962963,
+    "longitude": 78.1168914,
+    "display_name": "Gandhari, Gandhari mandal, Kamareddy, Telangana, 503114, India",
+    "address": {
+      "village": "Gandhari",
+      "county": "Gandhari mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503114",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gangadhara, karimnagar, telangana, india": {
+    "latitude": 18.5888465,
+    "longitude": 79.0099528,
+    "display_name": "Gangadhara, Gangadhara mandal, Karimnagar, Telangana, 505445, India",
+    "address": {
+      "village": "Gangadhara",
+      "county": "Gangadhara mandal",
+      "state_district": "Karimnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505445",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gollapally, jagtial, telangana, india": {
+    "latitude": 18.7902126,
+    "longitude": 79.0581885,
+    "display_name": "Gollapally-5, Gollapalli, Gollapalli mandal, Jagtial, Telangana, 505532, India",
+    "address": {
+      "amenity": "Gollapally-5",
+      "village": "Gollapalli",
+      "county": "Gollapalli mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505532",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gopalraopet, karimnagar, telangana, india": {
+    "latitude": 18.6386009,
+    "longitude": 79.0949411,
+    "display_name": "Gopalraopet-3, Ramadugu mandal, Karimnagar, Telangana, 505526, India",
+    "address": {
+      "amenity": "Gopalraopet-3",
+      "county": "Ramadugu mandal",
+      "state_district": "Karimnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505526",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "gudimalkapur, hyderabad, telangana, india": {
+    "latitude": 17.3879203,
+    "longitude": 78.4371165,
+    "display_name": "Gudimalkapur, Ward 70 Mehdipatnam, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Asif Nagar mandal, Hyderabad, Telangana, 500264, India",
+    "address": {
+      "suburb": "Gudimalkapur",
+      "city_district": "Greater Hyderabad Municipal Corporation Central Zone",
+      "city": "Hyderabad",
+      "county": "Asif Nagar mandal",
+      "state_district": "Hyderabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "500264",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "halia, nalgonda, telangana, india": null,
+  "huzurnagar, suryapet, telangana, india": {
+    "latitude": 16.9003733,
+    "longitude": 79.8745838,
+    "display_name": "Huzurnagar, Huzur nagar mandal, Suryapet, Telangana, 508204, India",
+    "address": {
+      "town": "Huzurnagar",
+      "county": "Huzur nagar mandal",
+      "state_district": "Suryapet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508204",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "huzzurabad, karimnagar, telangana, india": null,
+  "ibrahimpatnam, ranga reddy, telangana, india": {
+    "latitude": 17.1952924,
+    "longitude": 78.6508564,
+    "display_name": "Ibrahimpatnam, Ibrahimpatnam mandal, Ranga Reddy, Telangana, 501506, India",
+    "address": {
+      "village": "Ibrahimpatnam",
+      "county": "Ibrahimpatnam mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "501506",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "ibrahimpatnam, jagtial, telangana, india": {
+    "latitude": 18.9057181,
+    "longitude": 78.5832738,
+    "display_name": "Ibrahimpatnam, Ibrahimpatnam mandal, Jagtial, Telangana, 505462, India",
+    "address": {
+      "village": "Ibrahimpatnam",
+      "county": "Ibrahimpatnam mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505462",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "jainath, adilabad, telangana, india": {
+    "latitude": 19.6961374,
+    "longitude": 78.6676891,
+    "display_name": "Laxmipur-II (Jainath), NH353B, Jainad, Jainad Mandal, Adilabad, Telangana, India",
+    "address": {
+      "amenity": "Laxmipur-II (Jainath)",
+      "road": "NH353B",
+      "village": "Jainad",
+      "county": "Jainad Mandal",
+      "state_district": "Adilabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "jammikunta, karimnagar, telangana, india": {
+    "latitude": 18.2897332,
+    "longitude": 79.4739441,
+    "display_name": "Jammikunta, Jammikunta mandal, Karimnagar, Telangana, 505122, India",
+    "address": {
+      "town": "Jammikunta",
+      "county": "Jammikunta mandal",
+      "state_district": "Karimnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505122",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "jangaon, jangaon, telangana, india": {
+    "latitude": 17.7243771,
+    "longitude": 79.1570824,
+    "display_name": "Jangaon, Jangoan mandal, Jangaon, Telangana, 506167, India",
+    "address": {
+      "town": "Jangaon",
+      "county": "Jangoan mandal",
+      "state_district": "Jangaon",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506167",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "jannaram, mancherial, telangana, india": {
+    "latitude": 19.1219171,
+    "longitude": 78.9959894,
+    "display_name": "Jannaram, Jannaram mandal, Mancherial, Telangana, India",
+    "address": {
+      "village": "Jannaram",
+      "county": "Jannaram mandal",
+      "state_district": "Mancherial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "jogipet, sangareddy, telangana, india": {
+    "latitude": 17.8368269,
+    "longitude": 78.0731499,
+    "display_name": "Jogipet, Andole mandal, Sangareddy, Telangana, 502270, India",
+    "address": {
+      "village": "Jogipet",
+      "county": "Andole mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502270",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kamareddy, kamareddy, telangana, india": {
+    "latitude": 18.3222091,
+    "longitude": 78.3387118,
+    "display_name": "Kamareddy, Kamareddy mandal, Kamareddy, Telangana, 503100, India",
+    "address": {
+      "town": "Kamareddy",
+      "county": "Kamareddy mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503100",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kammarpally, nizamabad, telangana, india": {
+    "latitude": 18.8318996,
+    "longitude": 78.5069181,
+    "display_name": "Kammarpally, NH63, Kammar Palle, Kammarpally mandal, Nizamabad, Telangana, 503308, India",
+    "address": {
+      "amenity": "Kammarpally",
+      "road": "NH63",
+      "village": "Kammar Palle",
+      "county": "Kammarpally mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503308",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "karimnagar, karimnagar, telangana, india": {
+    "latitude": 18.4348122,
+    "longitude": 79.1328042,
+    "display_name": "Karimnagar, Karimnagar mandal, Karimnagar, Telangana, 505001, India",
+    "address": {
+      "city": "Karimnagar",
+      "county": "Karimnagar mandal",
+      "state_district": "Karimnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505001",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kataram, bhupalapally, telangana, india": {
+    "latitude": 18.6275596,
+    "longitude": 79.938122,
+    "display_name": "Kataram, Kataram mandal, Jayashankar Bhupalapally, Telangana, India",
+    "address": {
+      "village": "Kataram",
+      "county": "Kataram mandal",
+      "state_district": "Jayashankar Bhupalapally",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kathalapur, jagtial, telangana, india": {
+    "latitude": 18.7495555,
+    "longitude": 78.6866207,
+    "display_name": "Primary Health Centre, Kathalapur, Kathlapur, Kathlapur mandal, Jagtial, Telangana, India",
+    "address": {
+      "amenity": "Primary Health Centre, Kathalapur",
+      "village": "Kathlapur",
+      "county": "Kathlapur mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "khanapur, nirmal, telangana, india": {
+    "latitude": 19.0442198,
+    "longitude": 78.6447209,
+    "display_name": "Khanapur, Khanapur mandal, Nirmal, Telangana, 504203, India",
+    "address": {
+      "village": "Khanapur",
+      "county": "Khanapur mandal",
+      "state_district": "Nirmal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504203",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kodad, suryapet, telangana, india": {
+    "latitude": 16.9947802,
+    "longitude": 79.9749826,
+    "display_name": "Kodada, Kodad mandal, Suryapet, Telangana, 508206, India",
+    "address": {
+      "town": "Kodada",
+      "county": "Kodad mandal",
+      "state_district": "Suryapet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508206",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "koheda, siddipet, telangana, india": {
+    "latitude": 18.1710494,
+    "longitude": 79.0930528,
+    "display_name": "Koheda, Koheda mandal, Siddipet, Telangana, 505473, India",
+    "address": {
+      "village": "Koheda",
+      "county": "Koheda mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505473",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "konaraopet, rajanna siricilla, telangana, india": null,
+  "kondapaka, siddipet, telangana, india": {
+    "latitude": 17.973531,
+    "longitude": 78.8591995,
+    "display_name": "Kondapaka, Kondapak mandal, Siddipet, Telangana, India",
+    "address": {
+      "village": "Kondapaka",
+      "county": "Kondapak mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "koratla, jagtial, telangana, india": {
+    "latitude": 18.823632,
+    "longitude": 78.717897,
+    "display_name": "Classic Dresses Koratla, NH63, Korutla, Korutla mandal, Jagtial, Telangana, 505326, India",
+    "address": {
+      "shop": "Classic Dresses Koratla",
+      "road": "NH63",
+      "town": "Korutla",
+      "county": "Korutla mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505326",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kotagiri, nizamabad, telangana, india": {
+    "latitude": 18.5729602,
+    "longitude": 77.8236852,
+    "display_name": "Kotagiri, Kotagiri mandal, Nizamabad, Telangana, 503207, India",
+    "address": {
+      "town": "Kotagiri",
+      "county": "Kotagiri mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503207",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "kuber, nirmal, telangana, india": null,
+  "kukatpally,rbz, medchal malkajgiri, telangana, india": null,
+  "kulkacherla, vikarabad, telangana, india": {
+    "latitude": 17.0150535,
+    "longitude": 77.8755632,
+    "display_name": "Kulkacharla mandal, Vikarabad, Telangana, India",
+    "address": {
+      "village": "Kulkacharla mandal",
+      "state_district": "Vikarabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "l b nagar, ranga reddy, telangana, india": {
+    "latitude": 17.3498071,
+    "longitude": 78.5478875,
+    "display_name": "L. B. Nagar, Vijaywada Highway, Laxmi Nagar Colony, Saroor Nagar, Ward 18 Lingojiguda, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Saroornagar mandal, Ranga Reddy, Telangana, 500102, India",
+    "address": {
+      "railway": "L. B. Nagar",
+      "road": "Vijaywada Highway",
+      "neighbourhood": "Laxmi Nagar Colony",
+      "suburb": "Saroor Nagar",
+      "city_district": "Greater Hyderabad Municipal Corporation East Zone",
+      "city": "Hyderabad",
+      "county": "Saroornagar mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "500102",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "luxettipet, mancherial, telangana, india": {
+    "latitude": 18.9192283,
+    "longitude": 79.2328067,
+    "display_name": "Luxettipet mandal, Mancherial, Telangana, India",
+    "address": {
+      "county": "Luxettipet mandal",
+      "state_district": "Mancherial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "madnoor, kamareddy, telangana, india": {
+    "latitude": 18.5021779,
+    "longitude": 77.6251363,
+    "display_name": "Madnur, Madnur mandal, Kamareddy, Telangana, 503309, India",
+    "address": {
+      "village": "Madnur",
+      "county": "Madnur mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503309",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "mahabubnagar(rythu bazar), mahbubnagar, telangana, india": null,
+  "mahboob manison, hyderabad, telangana, india": null,
+  "mahbubnagar, mahbubnagar, telangana, india": {
+    "latitude": 16.7577914,
+    "longitude": 78.0000755,
+    "display_name": "Mahbubnagar, Railway Station Circle, Subhash Nagar, Mahbubnagar, Mahabubnagar_Urban mandal, Mahabubnagar, Telangana, 509001, India",
+    "address": {
+      "railway": "Mahbubnagar",
+      "road": "Railway Station Circle",
+      "neighbourhood": "Subhash Nagar",
+      "city": "Mahbubnagar",
+      "county": "Mahabubnagar_Urban mandal",
+      "state_district": "Mahabubnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509001",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "maheshwaram, ranga reddy, telangana, india": {
+    "latitude": 17.1350798,
+    "longitude": 78.4338212,
+    "display_name": "Maheshwaram, Maheswaram mandal, Ranga Reddy, Telangana, 501359, India",
+    "address": {
+      "village": "Maheshwaram",
+      "county": "Maheswaram mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "501359",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "makthal, narayanpet, telangana, india": {
+    "latitude": 16.5010823,
+    "longitude": 77.5133174,
+    "display_name": "Makthal mandal, Narayanpet, Telangana, 509208, India",
+    "address": {
+      "town": "Makthal mandal",
+      "state_district": "Narayanpet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509208",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "mallapur, jagtial, telangana, india": {
+    "latitude": 18.9700102,
+    "longitude": 78.7053522,
+    "display_name": "Mallapur, Mallapur mandal, Jagtial, Telangana, 505331, India",
+    "address": {
+      "town": "Mallapur",
+      "county": "Mallapur mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505331",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "mallial(cheppial), karimnagar, telangana, india": null,
+  "manakodur, karimnagar, telangana, india": null,
+  "mancherial, mancherial, telangana, india": {
+    "latitude": 18.8761795,
+    "longitude": 79.4449696,
+    "display_name": "Mancherial, Mancherial mandal, Mancherial, Telangana, 504200, India",
+    "address": {
+      "town": "Mancherial",
+      "county": "Mancherial mandal",
+      "state_district": "Mancherial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504200",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "manthani, peddapalli, telangana, india": {
+    "latitude": 18.6512469,
+    "longitude": 79.665771,
+    "display_name": "Manthani, Manthani mandal, Peddapalli, Telangana, 505184, India",
+    "address": {
+      "village": "Manthani",
+      "county": "Manthani mandal",
+      "state_district": "Peddapalli",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505184",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "marapally, vikarabad, telangana, india": null,
+  "medak, medak, telangana, india": {
+    "latitude": 18.0458792,
+    "longitude": 78.2651993,
+    "display_name": "Medak, Medak mandal, Medak, Telangana, 502110, India",
+    "address": {
+      "town": "Medak",
+      "county": "Medak mandal",
+      "state_district": "Medak",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502110",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "medchal, medchal malkajgiri, telangana, india": {
+    "latitude": 17.6339929,
+    "longitude": 78.4843146,
+    "display_name": "Medchal, Medchal mandal, Medchal–Malkajgiri, Telangana, 501400, India",
+    "address": {
+      "village": "Medchal",
+      "county": "Medchal mandal",
+      "state_district": "Medchal–Malkajgiri",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "501400",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "medipally, jagtial, telangana, india": {
+    "latitude": 18.8005515,
+    "longitude": 78.8167818,
+    "display_name": "Medipally - III, NH63, Medipalle, Medipalle mandal, Jagtial, Telangana, 505453, India",
+    "address": {
+      "amenity": "Medipally - III",
+      "road": "NH63",
+      "village": "Medipalle",
+      "county": "Medipalle mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505453",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "metpally, jagtial, telangana, india": {
+    "latitude": 18.8475412,
+    "longitude": 78.6335998,
+    "display_name": "TGSRTC Bus Depot , Metpally, Metpalli, Metpalli mandal, Jagtial, Telangana, 505325, India",
+    "address": {
+      "industrial": "TGSRTC Bus Depot , Metpally",
+      "town": "Metpalli",
+      "county": "Metpalli mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505325",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "mirdoddi, siddipet, telangana, india": {
+    "latitude": 18.0789173,
+    "longitude": 78.6774945,
+    "display_name": "Mirdoddi, Mirdoddi mandal, Siddipet, Telangana, India",
+    "address": {
+      "village": "Mirdoddi",
+      "county": "Mirdoddi mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "miryalaguda, nalgonda, telangana, india": {
+    "latitude": 16.8710119,
+    "longitude": 79.5617353,
+    "display_name": "Miryalaguda, Miryalaguda mandal, Nalgonda, Telangana, 508200, India",
+    "address": {
+      "city": "Miryalaguda",
+      "county": "Miryalaguda mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508200",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "miryalguda(rythu bazar), nalgonda, telangana, india": null,
+  "mothkur, yadadri bhuvanagiri, telangana, india": {
+    "latitude": 17.4278329,
+    "longitude": 79.2642694,
+    "display_name": "Mothkur mandal, Yadadri Bhuvanagiri, Telangana, 508277, India",
+    "address": {
+      "county": "Mothkur mandal",
+      "state_district": "Yadadri Bhuvanagiri",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508277",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "mulugu, mulugu, telangana, india": {
+    "latitude": 18.1932372,
+    "longitude": 79.9413676,
+    "display_name": "Mulugu, Mulug mandal, Mulugu, Telangana, 506343, India",
+    "address": {
+      "town": "Mulugu",
+      "county": "Mulug mandal",
+      "state_district": "Mulugu",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506343",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "ngos colony,rbz, nizamabad, telangana, india": null,
+  "nagarkurnool(talkapalli), mahbubnagar, telangana, india": null,
+  "nakrekal, nalgonda, telangana, india": {
+    "latitude": 17.1647574,
+    "longitude": 79.4274007,
+    "display_name": "Nakrekal, Nakrekal mandal, Nalgonda, Telangana, 508211, India",
+    "address": {
+      "town": "Nakrekal",
+      "county": "Nakrekal mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508211",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nalgonda, nalgonda, telangana, india": {
+    "latitude": 17.0504406,
+    "longitude": 79.2669235,
+    "display_name": "Nalgonda, Nalgonda mandal, Nalgonda, Telangana, 508001, India",
+    "address": {
+      "city": "Nalgonda",
+      "county": "Nalgonda mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508001",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nangunoor, siddipet, telangana, india": {
+    "latitude": 18.0629294,
+    "longitude": 79.0361182,
+    "display_name": "NANGUNOOR-III, NH765DG, mittapally, Nangnoor mandal, Siddipet, Telangana, India",
+    "address": {
+      "amenity": "NANGUNOOR-III",
+      "road": "NH765DG",
+      "village": "mittapally",
+      "county": "Nangnoor mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "narayankhed, sangareddy, telangana, india": {
+    "latitude": 18.0347921,
+    "longitude": 77.7772967,
+    "display_name": "Narayankhed mandal, Sangareddy, Telangana, 502286, India",
+    "address": {
+      "town": "Narayankhed mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502286",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "narayanpet, narayanpet, telangana, india": {
+    "latitude": 16.7477612,
+    "longitude": 77.4949954,
+    "display_name": "Narayanpet, Narayanpet mandal, Narayanpet, Telangana, 509210, India",
+    "address": {
+      "town": "Narayanpet",
+      "county": "Narayanpet mandal",
+      "state_district": "Narayanpet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509210",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "narsampet, warangal, telangana, india": {
+    "latitude": 17.9305758,
+    "longitude": 79.893639,
+    "display_name": "Narsampet mandal, Warangal, Telangana, 506132, India",
+    "address": {
+      "town": "Narsampet mandal",
+      "state_district": "Warangal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506132",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "narsapur, medak, telangana, india": {
+    "latitude": 17.7384006,
+    "longitude": 78.279637,
+    "display_name": "Narsapur mandal, Medak, Telangana, India",
+    "address": {
+      "village": "Narsapur mandal",
+      "state_district": "Medak",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "narsingi, ranga reddy, telangana, india": {
+    "latitude": 17.3915187,
+    "longitude": 78.3598924,
+    "display_name": "Narsingi, Manchirevula, Gandipet mandal, Ranga Reddy, Telangana, 500089, India",
+    "address": {
+      "suburb": "Narsingi",
+      "village": "Manchirevula",
+      "county": "Gandipet mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "500089",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nawabpet, mahbubnagar, telangana, india": {
+    "latitude": 16.8940443,
+    "longitude": 78.0296542,
+    "display_name": "Sub Centre, Nawabpet, nawabpet, Nawabpet mandal, Mahabubnagar, Telangana, 509340, India",
+    "address": {
+      "amenity": "Sub Centre, Nawabpet",
+      "village": "nawabpet",
+      "county": "Nawabpet mandal",
+      "state_district": "Mahabubnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509340",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nekkonda, warangal, telangana, india": {
+    "latitude": 17.7959905,
+    "longitude": 79.8019946,
+    "display_name": "Nekkonda, Nekkonda mandal, Warangal, Telangana, 506122, India",
+    "address": {
+      "town": "Nekkonda",
+      "county": "Nekkonda mandal",
+      "state_district": "Warangal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506122",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "neredcherla, suryapet, telangana, india": {
+    "latitude": 16.8870753,
+    "longitude": 79.6934155,
+    "display_name": "Neredcherla, Nereducherla mandal, Suryapet, Telangana, 508218, India",
+    "address": {
+      "village": "Neredcherla",
+      "county": "Nereducherla mandal",
+      "state_district": "Suryapet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508218",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nidamanoor, nalgonda, telangana, india": {
+    "latitude": 16.8215148,
+    "longitude": 79.3651133,
+    "display_name": "Nidamanoor, Nidamanoor mandal, Nalgonda, Telangana, 508278, India",
+    "address": {
+      "village": "Nidamanoor",
+      "county": "Nidamanoor mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508278",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nirmal, nirmal, telangana, india": {
+    "latitude": 19.0924602,
+    "longitude": 78.3486041,
+    "display_name": "Nirmal, Nirmal mandal, Nirmal, Telangana, 504106, India",
+    "address": {
+      "town": "Nirmal",
+      "county": "Nirmal mandal",
+      "state_district": "Nirmal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "504106",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "nuguru charla, bhadradri kothagudem, telangana, india": null,
+  "papannapet, medak, telangana, india": {
+    "latitude": 18.0366896,
+    "longitude": 78.0886904,
+    "display_name": "Papannapet, Papannapet mandal, Medak, Telangana, India",
+    "address": {
+      "village": "Papannapet",
+      "county": "Papannapet mandal",
+      "state_district": "Medak",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "pargi, vikarabad, telangana, india": {
+    "latitude": 17.1685198,
+    "longitude": 77.8797905,
+    "display_name": "Pargi mandal, Vikarabad, Telangana, India",
+    "address": {
+      "town": "Pargi mandal",
+      "state_district": "Vikarabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "pebbair, wanaparthy, telangana, india": {
+    "latitude": 16.2052789,
+    "longitude": 77.9941964,
+    "display_name": "Pebbair, Pebbair mandal, Wanaparthy, Telangana, 509104, India",
+    "address": {
+      "town": "Pebbair",
+      "county": "Pebbair mandal",
+      "state_district": "Wanaparthy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509104",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "peddapalli, peddapalli, telangana, india": {
+    "latitude": 18.6177235,
+    "longitude": 79.3868069,
+    "display_name": "Peddapalli, Peddapalli mandal, Peddapalli, Telangana, 505100, India",
+    "address": {
+      "town": "Peddapalli",
+      "county": "Peddapalli mandal",
+      "state_district": "Peddapalli",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505100",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "pegadapally, jagtial, telangana, india": {
+    "latitude": 18.7049099,
+    "longitude": 79.0650073,
+    "display_name": "Pegadapally-2, Pegadapalli, Pegadapalli mandal, Jagtial, Telangana, India",
+    "address": {
+      "amenity": "Pegadapally-2",
+      "village": "Pegadapalli",
+      "county": "Pegadapalli mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "pitlam, kamareddy, telangana, india": {
+    "latitude": 18.2232522,
+    "longitude": 77.8239617,
+    "display_name": "Pitlam, Pitlam mandal, Kamareddy, Telangana, 503310, India",
+    "address": {
+      "village": "Pitlam",
+      "county": "Pitlam mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503310",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "pothgal, rajanna siricilla, telangana, india": {
+    "latitude": 18.2825582,
+    "longitude": 78.7074146,
+    "display_name": "POTHGAL-3, Mustabad, Mustabad mandal, Rajanna Sircilla, Telangana, 505404, India",
+    "address": {
+      "amenity": "POTHGAL-3",
+      "village": "Mustabad",
+      "county": "Mustabad mandal",
+      "state_district": "Rajanna Sircilla",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505404",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "pullanga x road,rbz, nizamabad, telangana, india": null,
+  "rythu bazar erragadda, hyderabad, telangana, india": null,
+  "rythu bazar falaknuma, hyderabad, telangana, india": {
+    "latitude": 17.3352427,
+    "longitude": 78.4680859,
+    "display_name": "Rythu Bazar, Falaknuma, Falaknuma Road, Madina Nagar, Ward 47 Nawab Saheb Kunta, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Bandlaguda mandal, Hyderabad, Telangana, 500064, India",
+    "address": {
+      "amenity": "Rythu Bazar, Falaknuma",
+      "road": "Falaknuma Road",
+      "neighbourhood": "Madina Nagar",
+      "suburb": "Ward 47 Nawab Saheb Kunta",
+      "city_district": "Greater Hyderabad Municipal Corporation South Zone",
+      "city": "Hyderabad",
+      "county": "Bandlaguda mandal",
+      "state_district": "Hyderabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "500064",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "rythu bazar mehdipatnam, hyderabad, telangana, india": {
+    "latitude": 17.3950891,
+    "longitude": 78.4412339,
+    "display_name": "Rythu Bazar, Mehdipatnam, P.V. Narasimha Rao Flyover, Ward 69 Nanal Nagar, Greater Hyderabad Municipal Corporation Central Zone, Hyderabad, Asif Nagar mandal, Hyderabad, Telangana, 500028, India",
+    "address": {
+      "amenity": "Rythu Bazar, Mehdipatnam",
+      "road": "P.V. Narasimha Rao Flyover",
+      "suburb": "Ward 69 Nanal Nagar",
+      "city_district": "Greater Hyderabad Municipal Corporation Central Zone",
+      "city": "Hyderabad",
+      "county": "Asif Nagar mandal",
+      "state_district": "Hyderabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "500028",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "racharla boppapur, rajanna siricilla, telangana, india": null,
+  "raikal, jagtial, telangana, india": {
+    "latitude": 18.9047907,
+    "longitude": 78.8080213,
+    "display_name": "Raikal, Raikal mandal, Jagtial, Telangana, 505460, India",
+    "address": {
+      "town": "Raikal",
+      "county": "Raikal mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505460",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "raikode, sangareddy, telangana, india": {
+    "latitude": 17.8382386,
+    "longitude": 77.747213,
+    "display_name": "Raikode, Raikode mandal, Sangareddy, Telangana, 502257, India",
+    "address": {
+      "village": "Raikode",
+      "county": "Raikode mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502257",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "ramayampet, medak, telangana, india": {
+    "latitude": 18.1163712,
+    "longitude": 78.4307212,
+    "display_name": "Ramayampet, Ramayampet mandal, Medak, Telangana, 502101, India",
+    "address": {
+      "town": "Ramayampet",
+      "county": "Ramayampet mandal",
+      "state_district": "Medak",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502101",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "rudrangi, rajanna siricilla, telangana, india": {
+    "latitude": 18.6238194,
+    "longitude": 78.698047,
+    "display_name": "Dasarnayakathanda (Rudrangi) (Mini), Rudrangi, Rudrangi mandal, Rajanna Sircilla, Telangana, 505307, India",
+    "address": {
+      "amenity": "Dasarnayakathanda (Rudrangi) (Mini)",
+      "village": "Rudrangi",
+      "county": "Rudrangi mandal",
+      "state_district": "Rajanna Sircilla",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505307",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "sadashivnagar, kamareddy, telangana, india": {
+    "latitude": 18.4104291,
+    "longitude": 78.2743169,
+    "display_name": "Sadashivnagar, Sadashivnagar mandal, Kamareddy, Telangana, India",
+    "address": {
+      "village": "Sadashivnagar",
+      "county": "Sadashivnagar mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "sadasivpet, sangareddy, telangana, india": {
+    "latitude": 17.6211902,
+    "longitude": 77.9503264,
+    "display_name": "Sadasivpet, Sadasivpet mandal, Sangareddy, Telangana, 502291, India",
+    "address": {
+      "town": "Sadasivpet",
+      "county": "Sadasivpet mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502291",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "sangareddy, sangareddy, telangana, india": {
+    "latitude": 17.6155151,
+    "longitude": 78.0817225,
+    "display_name": "Sangareddy mandal, Sangareddy, Telangana, India",
+    "address": {
+      "town": "Sangareddy mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "sarangapur apmc161, nirmal, telangana, india": null,
+  "sardarnagar, ranga reddy, telangana, india": {
+    "latitude": 17.0934624,
+    "longitude": 78.1658874,
+    "display_name": "Sardarnagar, Shabad mandal, Ranga Reddy, Telangana, 509216, India",
+    "address": {
+      "village": "Sardarnagar",
+      "county": "Shabad mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509216",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "saroornagar,rbz, ranga reddy, telangana, india": null,
+  "shadnagar, ranga reddy, telangana, india": {
+    "latitude": 17.0671702,
+    "longitude": 78.2045948,
+    "display_name": "Shadnagar, Farooqnagar mandal, Ranga Reddy, Telangana, 509216, India",
+    "address": {
+      "town": "Shadnagar",
+      "county": "Farooqnagar mandal",
+      "state_district": "Ranga Reddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509216",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "shaligowraram, nalgonda, telangana, india": {
+    "latitude": 17.2978274,
+    "longitude": 79.382485,
+    "display_name": "Primary Health Centre, Shaligowraram, sc colony, Shaligouraram, Shaligouraram mandal, Nalgonda, Telangana, 508210, India",
+    "address": {
+      "amenity": "Primary Health Centre, Shaligowraram",
+      "road": "sc colony",
+      "village": "Shaligouraram",
+      "county": "Shaligouraram mandal",
+      "state_district": "Nalgonda",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508210",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "shankarapally, ranga reddy, telangana, india": null,
+  "siddipet, siddipet, telangana, india": {
+    "latitude": 18.1017739,
+    "longitude": 78.8520128,
+    "display_name": "Siddipet, Siddipet Urban mandal, Siddipet, Telangana, 502103, India",
+    "address": {
+      "city": "Siddipet",
+      "county": "Siddipet Urban mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502103",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "siddipet(rythu bazar), siddipet, telangana, india": null,
+  "sircilla, rajanna siricilla, telangana, india": null,
+  "sultanabad, karimnagar, telangana, india": {
+    "latitude": 18.521544,
+    "longitude": 79.3183856,
+    "display_name": "Community Health Centre, Sultanabad, Sulthanabad-neerukulla RD, Komdlapalli, Neerukulla, Sultanabad mandal, Karimnagar, Telangana, 505185, India",
+    "address": {
+      "healthcare": "Community Health Centre, Sultanabad",
+      "road": "Sulthanabad-neerukulla RD",
+      "hamlet": "Komdlapalli",
+      "village": "Neerukulla",
+      "county": "Sultanabad mandal",
+      "state_district": "Karimnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "505185",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "tanduru, vikarabad, telangana, india": {
+    "latitude": 17.2575144,
+    "longitude": 77.5874075,
+    "display_name": "Tanduru, Tandur mandal, Vikarabad, Telangana, 501141, India",
+    "address": {
+      "town": "Tanduru",
+      "county": "Tandur mandal",
+      "state_district": "Vikarabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "501141",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "thoguta, siddipet, telangana, india": {
+    "latitude": 18.0135898,
+    "longitude": 78.713243,
+    "display_name": "Thoguta, Thoguta mandal, Siddipet, Telangana, India",
+    "address": {
+      "village": "Thoguta",
+      "county": "Thoguta mandal",
+      "state_district": "Siddipet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "thorrur, mahabubabad, telangana, india": {
+    "latitude": 17.582996,
+    "longitude": 79.6589492,
+    "display_name": "Thorrur, Thorrur mandal, Mahabubabad, Telangana, 506163, India",
+    "address": {
+      "town": "Thorrur",
+      "county": "Thorrur mandal",
+      "state_district": "Mahabubabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506163",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "thungathurthy, suryapet, telangana, india": {
+    "latitude": 17.4135938,
+    "longitude": 79.5871429,
+    "display_name": "Thungathurthy, Thungathurthy mandal, Suryapet, Telangana, 508280, India",
+    "address": {
+      "village": "Thungathurthy",
+      "county": "Thungathurthy mandal",
+      "state_district": "Suryapet",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508280",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "toopran, medak, telangana, india": {
+    "latitude": 17.8486716,
+    "longitude": 78.4700393,
+    "display_name": "Toopran-III, NH44, Hussainpur, Toorpran mandal, Medak, Telangana, 502334, India",
+    "address": {
+      "amenity": "Toopran-III",
+      "road": "NH44",
+      "village": "Hussainpur",
+      "county": "Toorpran mandal",
+      "state_district": "Medak",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "502334",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "v.saidapur, karimnagar, telangana, india": {
+    "latitude": 18.1981597,
+    "longitude": 79.3134862,
+    "display_name": "V_Saidapur mandal, Karimnagar, Telangana, India",
+    "address": {
+      "county": "V_Saidapur mandal",
+      "state_district": "Karimnagar",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "valigonda, yadadri bhuvanagiri, telangana, india": {
+    "latitude": 17.3772563,
+    "longitude": 79.0209072,
+    "display_name": "Valigonda, Valigonda mandal, Yadadri Bhuvanagiri, Telangana, 508112, India",
+    "address": {
+      "village": "Valigonda",
+      "county": "Valigonda mandal",
+      "state_district": "Yadadri Bhuvanagiri",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "508112",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "vanasthalipuram,rbz, ranga reddy, telangana, india": null,
+  "vantamamidi, siddipet, telangana, india": null,
+  "varni, nizamabad, telangana, india": {
+    "latitude": 18.53257,
+    "longitude": 77.8958328,
+    "display_name": "Varni, Varni mandal, Nizamabad, Telangana, 503201, India",
+    "address": {
+      "village": "Varni",
+      "county": "Varni mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503201",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "vatpally, sangareddy, telangana, india": {
+    "latitude": 17.8770725,
+    "longitude": 77.9003354,
+    "display_name": "Vatpally mandal, Sangareddy, Telangana, India",
+    "address": {
+      "county": "Vatpally mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "veernapalli, rajanna siricilla, telangana, india": {
+    "latitude": 18.4712161,
+    "longitude": 78.5984014,
+    "display_name": "VEERNAPALLI -3, Bhavusingh Thanda-I, Veernapalli, Veernapalli mandal, Rajanna Sircilla, Telangana, India",
+    "address": {
+      "amenity": "VEERNAPALLI -3",
+      "hamlet": "Bhavusingh Thanda-I",
+      "village": "Veernapalli",
+      "county": "Veernapalli mandal",
+      "state_district": "Rajanna Sircilla",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "velgatoor, jagtial, telangana, india": {
+    "latitude": 18.8444685,
+    "longitude": 79.1721124,
+    "display_name": "velgatoor, SH7, Velgatur, Velgatur mandal, Jagtial, Telangana, India",
+    "address": {
+      "amenity": "velgatoor",
+      "road": "SH7",
+      "village": "Velgatur",
+      "county": "Velgatur mandal",
+      "state_district": "Jagtial",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "velpur, nizamabad, telangana, india": {
+    "latitude": 18.7651179,
+    "longitude": 78.3932958,
+    "display_name": "Velpur, Vailpur mandal, Nizamabad, Telangana, India",
+    "address": {
+      "village": "Velpur",
+      "county": "Vailpur mandal",
+      "state_district": "Nizamabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "vemulawada, rajanna siricilla, telangana, india": null,
+  "venkateswarnagar, nalgonda, telangana, india": null,
+  "vikarabad, vikarabad, telangana, india": {
+    "latitude": 17.3379216,
+    "longitude": 77.9039857,
+    "display_name": "Vikarabad, Vikarabad mandal, Vikarabad, Telangana, 501102, India",
+    "address": {
+      "town": "Vikarabad",
+      "county": "Vikarabad mandal",
+      "state_district": "Vikarabad",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "501102",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "wanaparthy road, wanaparthy, telangana, india": {
+    "latitude": 16.3584227,
+    "longitude": 78.0600642,
+    "display_name": "TGSRTC Wanaparthy Bus Station Inner Road, Wanaparthy, Wanaparthy mandal, Wanaparthy, Telangana, 509103, India",
+    "address": {
+      "road": "TGSRTC Wanaparthy Bus Station Inner Road",
+      "town": "Wanaparthy",
+      "county": "Wanaparthy mandal",
+      "state_district": "Wanaparthy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509103",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "wanaparthy town, wanaparthy, telangana, india": {
+    "latitude": 16.3617799,
+    "longitude": 78.0610836,
+    "display_name": "Wanaparthy, Wanaparthy mandal, Wanaparthy, Telangana, 509103, India",
+    "address": {
+      "town": "Wanaparthy",
+      "county": "Wanaparthy mandal",
+      "state_district": "Wanaparthy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509103",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "wardhannapet, warangal, telangana, india": {
+    "latitude": 17.7733267,
+    "longitude": 79.5761394,
+    "display_name": "Wardhannapet, Wardhannapet mandal, Warangal, Telangana, 506313, India",
+    "address": {
+      "town": "Wardhannapet",
+      "county": "Wardhannapet mandal",
+      "state_district": "Warangal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "506313",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "weekly market area,rbz, karimnagar, telangana, india": null,
+  "yellareddy, kamareddy, telangana, india": {
+    "latitude": 18.2136013,
+    "longitude": 78.0323875,
+    "display_name": "Yellareddy mandal, Kamareddy, Telangana, 503122, India",
+    "address": {
+      "county": "Yellareddy mandal",
+      "state_district": "Kamareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "503122",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "balmoor, nagarkurnool, telangana, india": {
+    "latitude": 16.3245464,
+    "longitude": 78.5627603,
+    "display_name": "Balmoor, Balmoor mandal, Nagarkurnool, Telangana, 509401, India",
+    "address": {
+      "village": "Balmoor",
+      "county": "Balmoor mandal",
+      "state_district": "Nagarkurnool",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509401",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chinna tandrapadu, ieeja, jogulamba gadwal, telangana, india": null,
+  "ieeja, jogulamba gadwal, telangana, india": {
+    "latitude": 16.0146886,
+    "longitude": 77.6679465,
+    "display_name": "SubCentre, Pardipur (Ieeja), TGSRTC Aiza Bus Stand Inner Road, Aija, Aiza mandal, Jogulamba Gadwal, Telangana, 509127, India",
+    "address": {
+      "amenity": "SubCentre, Pardipur (Ieeja)",
+      "road": "TGSRTC Aiza Bus Stand Inner Road",
+      "town": "Aija",
+      "county": "Aiza mandal",
+      "state_district": "Jogulamba Gadwal",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "postcode": "509127",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "17.647562556934496,77.80108127422687": {
+    "latitude": 17.6477186,
+    "longitude": 77.7989573,
+    "display_name": "Woxsen University, Moqdumpalle, Munipally mandal, Sangareddy, Telangana, India",
+    "address": {
+      "commercial": "Woxsen University",
+      "village": "Moqdumpalle",
+      "county": "Munipally mandal",
+      "state_district": "Sangareddy",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "chinna korukondi, kalluru, khammam, telangana, india": {
+    "latitude": 17.0581383,
+    "longitude": 80.4519957,
+    "display_name": "Chinna Korukondi, Kalluru mandal, Khammam, Telangana, India",
+    "address": {
+      "village": "Chinna Korukondi",
+      "county": "Kalluru mandal",
+      "state_district": "Khammam",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "asupaka, aswaraopeta, bhadradri kothagudem, telangana, india": {
+    "latitude": 17.3878907,
+    "longitude": 81.1123496,
+    "display_name": "Asupaka, Aswaraopeta mandal, Bhadradri Kothagudem, Telangana, India",
+    "address": {
+      "village": "Asupaka",
+      "county": "Aswaraopeta mandal",
+      "state_district": "Bhadradri Kothagudem",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  },
+  "anantharam, aswaraopeta, bhadradri kothagudem, telangana, india": {
+    "latitude": 17.3603998,
+    "longitude": 81.1954369,
+    "display_name": "Anantharam, Aswaraopeta mandal, Bhadradri Kothagudem, Telangana, India",
+    "address": {
+      "village": "Anantharam",
+      "county": "Aswaraopeta mandal",
+      "state_district": "Bhadradri Kothagudem",
+      "state": "Telangana",
+      "ISO3166-2-lvl4": "IN-TS",
+      "country": "India",
+      "country_code": "in"
+    }
+  }
+}
